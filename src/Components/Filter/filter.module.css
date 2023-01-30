@@ -1,0 +1,33 @@
+/*.filter{*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    align-items: center;*/
+/*    width: 50rem;*/
+/*    margin: 20px;*/
+/*}*/
+
+/*.select{*/
+/*    width: 200px;*/
+/*}*/
+
+/*.selectContainer{*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.selectContainer span{*/
+/*    display: block;*/
+/*    margin-right: 1rem;*/
+/*}*/
+
+
+/*استخراج کامپوننت search*/
+
+.filter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50rem;
+    margin: 20px;
+}
+
